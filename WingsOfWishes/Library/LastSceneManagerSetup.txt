@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Niveau_03_V16.unity
+- path: Assets/Oli/Scene/Splash.unity
   isLoaded: 1
   isActive: 1

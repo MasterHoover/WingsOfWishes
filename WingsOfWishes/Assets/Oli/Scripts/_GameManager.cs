@@ -40,6 +40,10 @@ public class _GameManager : MonoBehaviour
 		{
 			TogglePause ();
 		}
+		if (Input.GetKeyDown (KeyCode.Escape))
+		{
+			Application.Quit ();
+		}
 	}
 		
 	private void TogglePause ()
